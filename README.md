@@ -1,8 +1,8 @@
-👋 Hi, I’m @Stubthomas
-👀 I’m interested in IoT, mobile app & web development, Systems integration, APIs, 
-🌱 I’m currently learning: C# / .NET, 
-💞️ I’m looking to collaborate on ... systems upgrades
-📫 How to reach me ...
+ 👋 Hi, I’m @Stubthomas
+ 👀 I’m interested in IoT, mobile app & web development, Systems integration, APIs, 
+ 🌱 I’m currently learning: C# / .NET, 
+ 💞️ I’m looking to collaborate on ... systems upgrades
+ 📫 How to reach me ...
 
 
 <!---
