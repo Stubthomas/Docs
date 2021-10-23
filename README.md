@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stubthomas
-- 👀 I’m interested in ... developing apps
-- 🌱 I’m currently learning ... C#
+- 👀 I’m interested in ... developing apps etc
+- 🌱 I’m currently learning ... C# / .NET
 - 💞️ I’m looking to collaborate on ...  systems upgrades
 - 📫 How to reach me ...
 
