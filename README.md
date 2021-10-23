@@ -1,9 +1,8 @@
- 👋 Hi, I’m @Stubthomas<Br>
- 👀 I’m interested in IoT, mobile app & web development, Systems integration, APIs, <Br>
- 🌱 I’m currently learning: C# / .NET, <Br>
- 💞️ I’m looking to collaborate on ... systems upgrades<Br>
- 📫 How to reach me ...
-
+ 👋 Hi, I’m @Stubthomas<br>
+ 👀 I’m interested in IoT, mobile app & web development, Systems integration, APIs, frontend, user experience, UCD <br>
+ 🌱 I’m currently learning: C# / .NET, <br>
+ 💞️ I’m looking to collaborate on ... systems upgrades<br>
+ 📫 I know about Agile / Scrum, user stories, tech project delivery, digital product development, managing backlogs, UX/ UI, mock ups, use cases, flow diagrams, wireframes, A/B testing, & front end development.  
 
 <!---
 Stubthomas/Stubthomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
