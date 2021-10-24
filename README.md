@@ -4,6 +4,7 @@
  💞️ I’m looking to collaborate on ... systems upgrades<br>
  📫 I know about Agile / Scrum, user stories, tech project delivery, digital product development, managing backlogs, UX/ UI, mock ups, use cases, flow diagrams, wireframes, A/B testing, & front end development.
 
+You can view the projects I've done /delivered in these files.
 
 FILES
 Learning English App.pdf 
