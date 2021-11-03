@@ -4,14 +4,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
  👋 Hi, I’m @Stubthomas<br>
- 👀 I’m interested in IoT, mobile app & web development, Systems integration, APIs, frontend, user experience, UCD <br>
- 🌱 I’m currently learning: C# / .NET, <br>
- 💞️ I’m looking to collaborate on ... systems upgrades<br>
- 📫 I know about Agile / Scrum, user stories, tech project delivery, digital product development, managing backlogs, UX/ UI, mock ups, use cases, flow diagrams, wireframes, A/B testing, & front end development.
+ 👀 I’m interested in web design & development, frontend, user experience, & Systems integration, APIs, UCD, IoT, <br>
+ 🌱 I’m currently learning: C# <br>
+ 💞️ I’m looking to collaborate on ... dev systems upgrades<br>
+ 📫 I know about UX/ UI, mock ups, wireframes, A/B testing, flow diagrams, front end development, user stories, Agile / Scrum, project delivery,  
 
 You can view the projects I've done /delivered in these files.
 
-FILES<br>
+<b>FILES</b><br>
 Toquo Learning English App <br>
 SEN Tutors<br>
 Tutor Map <br>
