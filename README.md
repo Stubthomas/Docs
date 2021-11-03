@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.--->
 You can view the projects I've done /delivered  
 <b>FILES</b><br>
 Toquo English:  an eLearning site for learners of English<br>
-SEN Tutors: A tutor search tool<br>
+SEN Tutors: A special needs tutor search tool<br>
 TutorMap:  <br>
-Offers Map <br>
-Event Map app<br>
-StuEnglish: a eLearning for learners of English<br> 
+Offers Map: Special offers aggregator on a map <br>
+Event Map app: <br>
+StuEnglish: an eLearning site for learners of English<br> 
 
 See files in the Pin in the section below 
 
