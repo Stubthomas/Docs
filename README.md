@@ -9,12 +9,12 @@ You can click the Preview link to take a look at your changes.--->
 
 You can view the projects I've done /delivered  
 <b>FILES</b><br>
-<b>Toquo English:</b>  an eLearning site for learners of English<br>
-SEN Tutors:</b> A special needs tutor search tool<br>
-TutorMap:</b>  <br>
-Offers Map: Special offers aggregator on a map <br>
-Event Map app: <br>
-StuEnglish: an eLearning site for learners of English<br> 
+<b>Toquo English:</b> An eLearning site for learners of English.<br>
+<b>SEN Tutors:</b> A special needs tutor search tool<br>
+<b>TutorMap:</b>  <br>
+<b>Offers Map:</b>  Special offers aggregator on a map <br>
+<b>Event Map app:</b> Plan an evening out: discounts on hotels, entertainment and eating out. <br>
+<b>StuEnglish:</b> an eLearning site for learners of English (Taiwan/China)<br> 
 
 See files in the Pin in the section below 
 
