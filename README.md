@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.--->
 
 You can view the projects I've done /delivered  
 <b>FILES</b><br>
-Toquo English:  an eLearning site for learners of English<br>
-SEN Tutors: A special needs tutor search tool<br>
-TutorMap:  <br>
+<b>Toquo English:</b>  an eLearning site for learners of English<br>
+SEN Tutors:</b> A special needs tutor search tool<br>
+TutorMap:</b>  <br>
 Offers Map: Special offers aggregator on a map <br>
 Event Map app: <br>
 StuEnglish: an eLearning site for learners of English<br> 
