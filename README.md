@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.--->
  📫 I know about UI design, mock ups, wireframes, user experience, user research, A/B testing, flow diagrams, front end development, user stories, Agile / Scrum, project delivery,  
 
 <br>
-You can view the UI designs and approach for the projects I've done in the PDFs on the pin..
+You can view the UI designs & text explaining approach for these projects in the PDFs on the pin...
 
 <b>Toquo English:</b> An eLearning site for learners of English.<br>
 <b>SEN Tutors:</b> A special needs tutor search tool<br>
