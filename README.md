@@ -1,3 +1,8 @@
+<!---
+Stubthomas/Stubthomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
  👋 Hi, I’m @Stubthomas<br>
  👀 I’m interested in IoT, mobile app & web development, Systems integration, APIs, frontend, user experience, UCD <br>
  🌱 I’m currently learning: C# / .NET, <br>
@@ -13,9 +18,5 @@ Tutor Map <br>
 Offers Map <br>
 Event Map app
 
+See Pin in the section below 
 
-
-<!---
-Stubthomas/Stubthomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
