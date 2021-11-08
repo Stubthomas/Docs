@@ -18,5 +18,5 @@ You can view the UI designs & text explaining approach for these projects in the
 <b>StuEnglish:</b> an eLearning site for learners of English (Taiwan/China)<br> 
 <b> </b>
 
-(See files in the Pin in the section below) 
+(See files in the Pin in the section below)... 
 
