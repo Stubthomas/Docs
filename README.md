@@ -1,10 +1,10 @@
 <!--- Stubthomas/Stubthomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
 
- 👋 Hi, I’m @Stubthomas<br>
- 👀 I’m interested in web design & development, frontend, user experience, & Systems integration, APIs, UCD, IoT, <br>
+ 👋 Hi Everyone, I’m @Stubthomas<br>
+ 👀 I’m interested in user experience/UI/web design & development, APIs, frontend, UCD, IoT <br>
  🌱 I’m currently learning: C# <br>
- 💞️ I’m looking to collaborate on ... dev systems upgrades<br>
+ 💞️ I’m looking to collaborate on ...  any website, app or internal systems developments or upgrades<br>
  📫 I know about UI design, mock ups, wireframes, user experience, user research, A/B testing, flow diagrams, front end development, user stories, Agile / Scrum, project delivery,  
 <br>
 You can view the UI designs & text explaining approach for these projects in the PDFs on the pin...<br>
