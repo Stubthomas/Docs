@@ -13,9 +13,13 @@ You can view the UI designs & text explaining approach for these projects in the
 <b>Toquo English:</b> An eLearning site for learners of English.<br>
 
 <b>SEN Tutors:</b> A special needs tutor search tool<br>
+
 <b>TutorMap:</b> A tutor map search tool <br>
+
 <b>Offers Map:</b>  Special offers aggregator on a map <br>
+
 <b>Event Map app:</b> Plan an evening out: discounts on hotels, entertainment and eating out. <br>
+
 <b>StuEnglish:</b> an eLearning site for learners of English (Taiwan/China)<br> 
 <b> </b>
 
