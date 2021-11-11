@@ -9,11 +9,14 @@ You can click the Preview link to take a look at your changes.--->
  
 You can view the UI designs, requirements, product vision, user research, user stories, user story maps, prototypes & text explaining approach for each of these projects in the PDFs on the pin...<br>
 
+<b>Find SEN Tutors:</b> <br>
+A special needs tutor search tool<br>
+
+<b>ImprovementEnglish:</b> <br>
+An eLearning site for learners of English (Taiwan/China)<br> 
+
 <b>Toquo English:</b> <br>
 An eLearning site for learners of English.<br>
-
-<b>SEN Tutors:</b> <br>
-A special needs tutor search tool<br>
 
 <b>TutorMap:</b> <br>
 A tutor map search tool <br>
@@ -23,10 +26,8 @@ Special offers aggregator on a map <br>
 
 <b>Event Map app:</b> <br>
 Arrange an evening out: discounts on hotels, entertainment and eating out. <br>
-
-<b>StuEnglish:</b> <br>
-An eLearning site for learners of English (Taiwan/China)<br> 
 <b> </b>
+
 
 (See files in the Pin in the section below)... 
 
