@@ -1,7 +1,7 @@
 <!--- Stubthomas/Stubthomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
 
- 👋 Hi Everyone, I’m @Stubthomas<br>
+ 👋 Hi Everyone, I’m Stuart Thomas<br>
  👀 I’m interested in user experience/UI/web design & development, APIs, frontend, UCD, IoT <br>
  🌱 I’m currently learning: C# <br>
  💞️ I’m looking to collaborate on ...  any website, app or internal systems developments or upgrades<br>
