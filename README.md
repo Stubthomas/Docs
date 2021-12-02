@@ -29,5 +29,5 @@ Arrange an evening out: discounts on hotels, entertainment and eating out. <br>
 <b> </b>
 
 
-(See files in the Pin in the section below)... You can download files if you prefer
+(See files in the Pin in the section below)... You can download files if you prefer ...
 
