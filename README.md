@@ -2,7 +2,7 @@
 You can click the Preview link to take a look at your changes.--->
 
  👋 Hi Everyone, I’m Stuart Thomas<br>
- 👀 I’m interested in user experience/UI/web design & development, APIs, frontend, UCD, IoT <br>
+ 👀 I’m interested in user experience/UI/web design & development, APIs, frontend, UCD, developing products, IoT <br>
  🌱 I’m currently learning: C# <br>
  💞️ I’m looking to collaborate on ...  any website, app or internal systems developments or upgrades<br>
  📫 I know about UI design, mock ups, wireframes, user experience, user research, A/B testing, flow diagrams, front end development, user stories, Agile / Scrum, project delivery,  <br>
