@@ -18,7 +18,7 @@ A special needs tutor search tool<br>
 <b>ImprovementEnglish:</b> <br>
 An eLearning site for learners of English (Taiwan/China)<br> 
 
-<b>TutorMap:</b> (MOST UP-TO-DATE) <br>
+<b>TutorMap:</b> 
 A tutor map search tool <br>
 
 <b>Clasifigo Offers Map:</b> <br> 
