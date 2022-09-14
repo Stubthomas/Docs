@@ -1,5 +1,12 @@
 <!--- Stubthomas/Stubthomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
+👋 スチュアート・トーマスです<br>
+ 👀 ユーザー エクスペリエンス/UI/ウェブ デザインと開発、API、フロントエンド、UCD、製品開発、IoT に興味があります <br>
+ 🌱 現在学習中: C# <br>
+ 💞️ ウェブサイト、アプリ、社内システムの開発またはアップグレードで協力したいと考えています<br>
+ 📫 UI デザイン、モックアップ、ワイヤーフレーム、ユーザー エクスペリエンス、ユーザー調査、A/B テスト、フロー図、フロント エンド開発、ユーザー ストーリー、アジャイル / スクラム、プロジェクト デリバリー、<br>
+ 
+UI デザインとプロトタイプ、要件、ユーザー ペルソナと研究、ユーザー ストーリーとユーザー ストーリー マップ、これらの各プロジェクトのアプローチを説明するテキストをピンの PDF で表示できます...<br>
 
  👋 I’m Stuart Thomas<br>
  👀 I’m interested in user experience/UI/web design & development, APIs, frontend, UCD, developing products, IoT <br>
