@@ -26,7 +26,7 @@ A special needs tutor search tool<br>
 An eLearning site for learners of English in traditional Chinese<br> 
 
 <b>Sykes Travel</b><br>
-Booking engine for renting houses for vacations. 
+(A client) Booking engine for renting houses for vacations. 
 
 <b>TutorMap:</b> 
 A tutor map search tool <br>
