@@ -16,15 +16,17 @@ UI デザインとプロトタイプ、要件、ユーザー ペルソナと研�
  
 You can view the UI designs & prototypes, requirements, user persona & research, user stories & user story maps, text explaining approach for these projects in the PDFs on the pin...<br>
 
-
 <b>Toquo English:</b> <br>
-An eLearning site for learners of English.<br>
+A video eLearning site for learners of English.<br>
 
 <b>Find SEN Tutors:</b> <br>
 A special needs tutor search tool<br>
 
 <b>ImprovementEnglish:</b> <br>
 An eLearning site for learners of English in traditional Chinese<br> 
+
+<b>Sykes Travel</b>
+Booking engine for renting houses for vacations. 
 
 <b>TutorMap:</b> 
 A tutor map search tool <br>
