@@ -20,7 +20,7 @@ You can view the UI designs & prototypes, requirements, user persona & research,
 A video eLearning site for learners of English.<br>
 
 <b>Find SEN Tutors:</b> <br>
-A special needs tutor search tool<br>
+Tutor search tool for students requiring special needs tutors<br>
 
 <b>ImprovementEnglish:</b> <br>
 An eLearning site for learners of English in traditional Chinese<br> 
