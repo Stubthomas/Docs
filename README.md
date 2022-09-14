@@ -28,7 +28,7 @@ An eLearning site for learners of English in traditional Chinese<br>
 <b>Sykes Travel</b><br>
 (A client) Booking engine for renting houses for vacations. 
 
-<b>TutorMap:</b> 
+<b>TutorMap:</b><br> 
 A tutor map search tool <br>
 
 <b>Clasifigo Offers Map:</b> <br> 
@@ -39,5 +39,5 @@ Arrange an evening out: discounts on hotels, entertainment and eating out. <br>
 <b> </b>
 
 
-(See files in the Pin in the section below)... You can download files if you prefer ...
+(See files in the Pin)... You can download files if you prefer ...
 
