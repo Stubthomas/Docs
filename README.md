@@ -24,7 +24,7 @@ An eLearning site for learners of English.<br>
 A special needs tutor search tool<br>
 
 <b>ImprovementEnglish:</b> <br>
-An eLearning site for learners of English (Taiwan/China)<br> 
+An eLearning site for learners of English in traditional Chinese<br> 
 
 <b>TutorMap:</b> 
 A tutor map search tool <br>
@@ -32,7 +32,7 @@ A tutor map search tool <br>
 <b>Clasifigo Offers Map:</b> <br> 
 Special offers aggregator on a map <br>
 
-<b>Event Map app:</b> <br>
+<b>Multi Reserve Map app:</b> <br>
 Arrange an evening out: discounts on hotels, entertainment and eating out. <br>
 <b> </b>
 
