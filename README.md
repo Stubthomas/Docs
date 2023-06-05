@@ -15,8 +15,7 @@ In the PDFs on the pin, you can view documentation explaining our approach to th
 A video eLearning site for learners of English.<br>
 
 <b>WhereOffers.com Projects</b><br> 
-<b>TutorMap:</b><br> 
-A tutor map search tool <br>
+    <b>TutorMap:</b><br> A tutor map search tool <br>
 <b>Clasifigo Offers Map:</b> <br> 
 Special offers aggregator on a map <br>
 <b>Multi-Event Reservation Map app:</b> <br>
