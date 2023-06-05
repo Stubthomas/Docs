@@ -9,13 +9,8 @@ In the PDFs on the pin, you can view documentation explaining our approach to th
  
 <b>Comleigh Projects</b><br>
 <b>Sykes Travel</b>(A client) Booking engine for renting houses for vacations. 
-Find SEN Tutors:</b> <br>
-Tutor search tool for students requiring special needs tutors<br>
-
-<b>ImprovementEnglish:</b> <br>
-An eLearning site for learners of English in traditional Chinese<br> 
-(See files in the Pin)... You can download files if you prefer ...
-
+<b>Find SEN Tutors:</b> Tutor search tool for students requiring special needs tutors<br>
+  
 <b>Toquo English:</b> <br>
 A video eLearning site for learners of English.<br>
 
@@ -24,6 +19,8 @@ A video eLearning site for learners of English.<br>
 <b>    Clasifigo Offers Map:</b> Special offers aggregator on a map <br>
 <b>    Multi-Event Reservation Map app:</b> Arrange an evening out: discounts on hotels, entertainment and eating out. <br>
 <b> </b>
+
+(See files in the Pin)... You can download files if you prefer ...
 
 
 
