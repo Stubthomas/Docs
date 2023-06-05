@@ -2,11 +2,11 @@
 You can click the Preview link to take a look at your changes.--->
  
  👋 I’m Stuart Thomas<br>
- 👀 I’m interested in digital product development, user experience/UI/web design, APIs, frontend, User Centered Design,<br>
+ 👀 I’m interested in digital product development, FinTech, user experience/UI/web design, frontend, User Centered Design.<br>
  💞️ I’m looking to collaborate on: any website, app or internal systems developments or upgrades<br>
- 📫 I know about Agile / Scrum, project delivery, UI design, mock ups, wireframes, user experience, user research, A/B testing, flow diagrams, front end development, user stories, ,  <br>
+ 📫 I know about Agile / Scrum, project delivery, UI design, mock ups, wireframes, user experience, user research, A/B testing, flow diagrams, front end development, user stories...<br>
  
-You can view the UI designs & prototypes, requirements, user persona & research, user stories & user story maps, text explaining approach for these projects in the PDFs on the pin...<br>
+In the PDFs on the pin, you can view documentation explaining our approach to these projects, their Product Visions, requirements, user persona & user research, user stories & user story maps, UI designs & prototypes.<br>
 
 <b>Toquo English:</b> <br>
 A video eLearning site for learners of English.<br>
