@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.--->
  📫 I know about Agile / Scrum, project delivery, UI design, mock ups, wireframes, user experience, user research, A/B testing, flow diagrams, front end development, user stories...<br>
  
 In the PDFs on the pin, you can view documentation explaining our approach to these projects, their Product Visions, requirements, user persona & user research, user stories & user story maps, UI designs & prototypes.<br>
-
-<b>Sykes Travel</b><br>
-(A client) Booking engine for renting houses for vacations. 
+ 
+<b>Comleigh Projects<b><br>
+<b>Sykes Travel</b>(A client) Booking engine for renting houses for vacations. 
 
 <b>Toquo English:</b> <br>
 A video eLearning site for learners of English.<br>
