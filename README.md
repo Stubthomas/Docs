@@ -7,8 +7,14 @@ You can click the Preview link to take a look at your changes.--->
  
 In the PDFs on the pin, you can view documentation explaining our approach to these projects, their Product Visions, requirements, user persona & user research, user stories & user story maps, UI designs & prototypes.<br>
  
-<b>Comleigh Projects<b><br>
+<b>Comleigh Projects</b><br>
 <b>Sykes Travel</b>(A client) Booking engine for renting houses for vacations. 
+Find SEN Tutors:</b> <br>
+Tutor search tool for students requiring special needs tutors<br>
+
+<b>ImprovementEnglish:</b> <br>
+An eLearning site for learners of English in traditional Chinese<br> 
+(See files in the Pin)... You can download files if you prefer ...
 
 <b>Toquo English:</b> <br>
 A video eLearning site for learners of English.<br>
@@ -19,10 +25,5 @@ A video eLearning site for learners of English.<br>
 <b>    Multi-Event Reservation Map app:</b> Arrange an evening out: discounts on hotels, entertainment and eating out. <br>
 <b> </b>
 
-<b>Find SEN Tutors:</b> <br>
-Tutor search tool for students requiring special needs tutors<br>
 
-<b>ImprovementEnglish:</b> <br>
-An eLearning site for learners of English in traditional Chinese<br> 
-(See files in the Pin)... You can download files if you prefer ...
 
