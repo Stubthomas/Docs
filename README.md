@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.--->
 In the PDFs on the pin, you can view documentation explaining our approach to these projects, their Product Visions, requirements, user persona & user research, user stories & user story maps, UI designs & prototypes.<br>
  
 <b>Comleigh Projects</b><br>
-<b>Sykes Travel</b>(A client) Booking engine for renting houses for vacations.<br> 
-<b>Find SEN Tutors:</b> Tutor search tool for students requiring special needs tutors<br>
-<b>Cartolytics</b>Returns Management System (client)<br>
+<b>Sykes Travel</b> (A client) Booking engine for renting houses for vacations.<br> 
+<b>Find SEN Tutors: </b> Tutor search tool for students requiring special needs tutors<br>
+<b>Cartolytics: </b>Returns Management System (client)<br>
   
 <b>Toquo English:</b> <br>
 A video eLearning site for learners of English.<br>
