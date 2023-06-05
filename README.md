@@ -8,28 +8,25 @@ You can click the Preview link to take a look at your changes.--->
  
 In the PDFs on the pin, you can view documentation explaining our approach to these projects, their Product Visions, requirements, user persona & user research, user stories & user story maps, UI designs & prototypes.<br>
 
+<b>Sykes Travel</b><br>
+(A client) Booking engine for renting houses for vacations. 
+
 <b>Toquo English:</b> <br>
 A video eLearning site for learners of English.<br>
+
+<b>WhereOffers.com Projects</b><br> 
+<b>TutorMap:</b><br> 
+A tutor map search tool <br>
+<b>Clasifigo Offers Map:</b> <br> 
+Special offers aggregator on a map <br>
+<b>Multi-Event Reservation Map app:</b> <br>
+Arrange an evening out: discounts on hotels, entertainment and eating out. <br>
+<b> </b>
 
 <b>Find SEN Tutors:</b> <br>
 Tutor search tool for students requiring special needs tutors<br>
 
 <b>ImprovementEnglish:</b> <br>
 An eLearning site for learners of English in traditional Chinese<br> 
-
-<b>Sykes Travel</b><br>
-(A client) Booking engine for renting houses for vacations. 
-
-<b>TutorMap:</b><br> 
-A tutor map search tool <br>
-
-<b>Clasifigo Offers Map:</b> <br> 
-Special offers aggregator on a map <br>
-
-<b>Mult-Event Reserve Map app:</b> <br>
-Arrange an evening out: discounts on hotels, entertainment and eating out. <br>
-<b> </b>
-
-
 (See files in the Pin)... You can download files if you prefer ...
 
