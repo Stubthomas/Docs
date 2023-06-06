@@ -1,7 +1,7 @@
 <!--- Stubthomas/Stubthomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
  👋 I’m Stuart Thomas.<br>
- 👀 I’m interested in digital product development, FinTech, enterprise systems, solving problems via technology, .<br>
+ 👀 I’m interested in solving problems via technology, digital product development, FinTech, enterprise systems, etc<br>
  💞️ I’m looking to collaborate on: any website, app or internal systems developments or upgrades<br>
  📫 I know about Agile / Scrum, project delivery, user experience & User Centered Design, UI design, mock-ups, wireframes, user research, A/B testing, flow diagrams, user stories, and web development.</b>
  
