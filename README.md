@@ -3,7 +3,7 @@ You can click the Preview link to take a look at your changes.--->
  👋 I’m Stuart Thomas.<br>
  👀 I’m interested in digital product development, FinTech, User Centered Design, enterprise systems, solving problems via technology, .<br>
  💞️ I’m looking to collaborate on: any website, app or internal systems developments or upgrades<br>
- 📫 I know about Agile / Scrum, project delivery, UI design, mocups, wireframes, user experience, user research, A/B testing, flow diagramsuser stories...<b>
+ 📫 I know about Agile / Scrum, project delivery, UI design, mock-ups, wireframes, user experience, user research, A/B testing, flow diagramsuser stories...<b>
  
 In the PDFs on the pin, you can view documentation explaining our approach to these projects, their Product Visions, requirements, user persona & user research, user stories & user story maps, UI designs & prototypes.<br>
  
