@@ -11,8 +11,10 @@ In the PDFs on the pin, you can view documentation explaining our approach to th
 <b>Sykes Travel:  </b>Booking engine for renting houses for vacations.<br> 
 <b>Tutorsearch:  </b> Tutor search tool for students requiring special needs tutors<br>
 <b>Grizzly Eledyna:  </b>CRM System implementation strategy <br>
+<b>Cartolytics: </b>Returns Management System (client)<br>
 
-<b>Toquo English: </b>A video eLearning site for learners of English.<br>
+<b>Toquo English: </b><br>
+A video eLearning site for learners of English.<br>
 
 WhereOffers.com Projects</b> <br> 
 TutorMap: A tutor map search tool <br>
@@ -21,6 +23,6 @@ Multi-Event Reservation Map app: Arrange an evening out: discounts on hotels, en
 
 (See files in the Pin)... You can download files if you prefer ...
 
-<b>Cartolytics: </b>Returns Management System (client)<br>
+
 
 
