@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.--->
  📫 I know about Agile / Scrum, project delivery, user experience/UI design/ User Centered Design, wireframes, user research, A/B testing, flow diagrams, user stories, and web development.</b>
  
 In the PDFs on the pin, you can view documentation explaining our approach to these projects, their Product Visions, requirements, user persona & user research, user stories & user story maps, UI designs & prototypes.<br>
+Toquo, Tutorsearch and WhereOffers are own startup projects. Under Comleigh you can see consulting engagements for clients.
  
 <b>Comleigh Projects</b><br>
 <b>Sykes Travel:  </b>Booking engine for renting houses for vacations.<br> 
