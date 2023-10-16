@@ -12,14 +12,12 @@ In the PDFs on the pin, you can view documentation explaining our approach to th
 <b>Tutorsearch:  </b> Tutor search tool for students requiring special needs tutors<br>
 <b>Grizzly Eledyna:  </b>CRM System implementation strategy <b> <br>
 
-Toquo English: <br>
-A video eLearning site for learners of English.<br>
+Toquo English: <br> A video eLearning site for learners of English.<br>
 
-<b>WhereOffers.com Projects</b><br> 
-<b>TutorMap:</b>A tutor map search tool <br>
-<b>Clasifigo Offers Map:</b>Special offers aggregator on a map <br>
-<b>Multi-Event Reservation Map app:</b>Arrange an evening out: discounts on hotels, entertainment and eating out. <br>
-<b> </b>
+WhereOffers.com Projects <br> 
+TutorMap: A tutor map search tool <br>
+Clasifigo Offers Map: Special offers aggregator on a map <br>
+Multi-Event Reservation Map app: Arrange an evening out: discounts on hotels, entertainment and eating out. <br>
 
 (See files in the Pin)... You can download files if you prefer ...
 
