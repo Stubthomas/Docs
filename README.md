@@ -16,9 +16,9 @@ In the PDFs on the pin, you can view documentation explaining our approach to th
 A video eLearning site for learners of English.<br>
 
 <b>WhereOffers.com Projects</b><br> 
-<b>    TutorMap:</b> A tutor map search tool <br>
-<b>    Clasifigo Offers Map:</b> Special offers aggregator on a map <br>
-<b>    Multi-Event Reservation Map app:</b> Arrange an evening out: discounts on hotels, entertainment and eating out. <br>
+<b> TutorMap:</b> A tutor map search tool <br>
+<b> Clasifigo Offers Map:</b> Special offers aggregator on a map <br>
+<b> Multi-Event Reservation Map app:</b> Arrange an evening out: discounts on hotels, entertainment and eating out. <br>
 <b> </b>
 
 (See files in the Pin)... You can download files if you prefer ...
