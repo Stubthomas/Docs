@@ -12,7 +12,7 @@ In the PDFs on the pin, you can view documentation explaining our approach to th
 <b>Tutorsearch: </b> Tutor search tool for students requiring special needs tutors<br>
 <b>Grizzly Eledyna: </b>CRM System implementation strategy <b> 
 
-<b>Toquo English:</b> <br>
+<b>Toquo English:</b> 
 A video eLearning site for learners of English.<br>
 
 <b>WhereOffers.com Projects</b><br> 
