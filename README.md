@@ -10,7 +10,8 @@ In the PDFs on the pin, you can view documentation explaining our approach to th
 <b>Comleigh Projects</b><br>
 <b>Sykes Travel: </b> (A client) Booking engine for renting houses for vacations.<br> 
 <b>Tutorsearch: </b> Tutor search tool for students requiring special needs tutors<br>
-<b>Grizzly Eledyna: </b>CRM System implementation strategy <b> 
+<b>Grizzly Eledyna: </b>CRM System implementation strategy <b> <br>
+
 <b>Toquo English:</b> 
 A video eLearning site for learners of English.<br>
 
