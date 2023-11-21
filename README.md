@@ -20,8 +20,8 @@ A video eLearning site for learners of English.<br>
 
 WhereOffers.com Projects</b> <br> 
 <b>TutorMap</b>: A tutor map search tool <br>
-Clasifigo Offers Map: Special offers aggregator on a map <br>
-Multi-Event Reservation Map app: Arrange an evening out: discounts on hotels, entertainment and eating out. <br>
+<b>Clasifigo Offers Map</b>: Special offers aggregator on a map <br>
+<b>Multi-Event Reservation Map app</b>: Arrange an evening out: discounts on hotels, entertainment and eating out. <br>
 
 (See files in the Pin)... You can download files if you prefer ...
 
