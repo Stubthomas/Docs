@@ -10,9 +10,8 @@ In the PDFs on the pin, you can view documentation explaining our approach to th
 Toquo, Tutorsearch and WhereOffers are own startup projects. Under Comleigh you can see consulting engagements for clients.
  
 <b>Comleigh Projects</b><br>
-<b>Sykes Travel:  </b>Booking engine for renting houses for vacations.<br> 
+<b>Sykes Travel (client):  </b>Booking engine for renting houses for vacations.<br> 
 <b>Tutorsearch:  </b> Tutor search tool for students requiring special needs tutors<br>
-<b>Grizzly Eledyna:  </b>CRM System implementation strategy <br>
 <b>Cartolytics: </b>Returns Management System (client)<br>
 
 <b>Toquo English: </b><br>
